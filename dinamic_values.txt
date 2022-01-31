@@ -1,0 +1,20 @@
+FPS: 10
+
+SIZE_CELL: 20
+createList: 23
+liveList: 3
+
+HEIGHT: 21
+WIDTH: 21
+
+bg_color: 0, 0, 0
+cell_color: 255, 255, 255
+
+random_field_proc: 2
+
+
+// KEYS for keyboard
+//  r - random field
+//  c - clear field
+//  p - pause
+//  right button mouse - set/delete cell
